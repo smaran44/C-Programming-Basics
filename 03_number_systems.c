@@ -32,6 +32,9 @@
 
    // format specifier for decimal(integer) is %d
 
+   // there is no in built format specifier for binary
+
+
 
     
     

@@ -72,7 +72,7 @@ Write the remainders in reverse order: 123.
     printf("Decimal: %d\n", decimal);
     printf("Octal: %o\n", decimal);
 
-    return 0;
+  
 
 
   
@@ -114,3 +114,4 @@ Write the remainders in reverse order: 123.
     
 
     return 0;
+ }

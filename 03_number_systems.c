@@ -73,12 +73,6 @@ Write the remainders in reverse order: 123.
     printf("Octal: %o\n", decimal);
 
   
-
-
-  
-
-    
-    
     // %x is used for hexadecimal values
 
     printf("%x\n", 15);

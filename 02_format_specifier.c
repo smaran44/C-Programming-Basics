@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// printf is used to print output to the console
+
+
 int main () {
 
     printf("%d\n",5+2);

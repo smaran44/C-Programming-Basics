@@ -30,7 +30,9 @@
     Step 4: 1 ÷ 2 = 0 remainder 1
 */
 
-   // format specifier for decimal is %d
+   // format specifier for decimal(integer) is %d
+
+
     
     
     // %x is used for hexadecimal values

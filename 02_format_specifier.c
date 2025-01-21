@@ -30,6 +30,9 @@ int main () {
      represented in the computer's memory    */
 
     printf("%c\n",'A');
-
+    printf("%c\n",'1');
+    printf("%c\n",'a');
+    //If you use %c with multiple characters or a string, only the last character of the string will be printed.
+     printf("%c\n",'Ayuvy');
     return 0;
 }

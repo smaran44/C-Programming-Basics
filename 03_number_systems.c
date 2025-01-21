@@ -63,6 +63,18 @@ Write the remainders in reverse order: 123.
 */
 
 
+   // %o is format specifier for octal number
+     
+  
+    int decimal = 83;
+
+    // Print decimal as octal
+    printf("Decimal: %d\n", decimal);
+    printf("Octal: %o\n", decimal);
+
+    return 0;
+
+
   
 
     
@@ -81,7 +93,23 @@ Write the remainders in reverse order: 123.
     0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
     Here:
     0-9 represent values 0 to 9.
-    A-F represent values 10 to 15.*/
+    A-F represent values 10 to 15.
+
+   decimal to hexadecimal 
+
+   Example: Convert 123 to Hexadecimal
+    1. 123 ÷ 16 = 7 remainder 11 (11 = B in              hexadecimal).
+    2. 7 ÷ 16 = 0 remainder 7.
+    Write the remainders in reverse: 7B.
+
+    hexadecimal to decimal 
+    
+   Hexadecimal:   7       B
+   Positions:     1       0
+   (7 × 16¹) + (B × 16⁰)
+   = 112 + 11
+   = 123
+*/
 
     
 

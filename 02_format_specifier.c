@@ -7,7 +7,7 @@ int main () {
     printf("123%d56789\n", 4);
 
     // "\n" character is used to create a new line in text files
-    // %d is a format specifier
+    // %d is a format specifier for decimal(integer)
 
     int a = 10;
     printf("The value of a is %d\n", a);

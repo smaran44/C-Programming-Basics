@@ -2,7 +2,7 @@
 
  int main() {
 
-    /*In programming, four main number systems are commonly used. Each has a specific purpose depending on the context:
+    /* In programming, four main number systems are commonly used. Each has a specific purpose depending on the context:
 
     1. Decimal (Base-10)
        The number system we use in daily life. It uses 10 digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9

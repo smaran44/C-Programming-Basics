@@ -27,7 +27,7 @@ int main() {
     scanf("%d",&num);
 
     if (num>0) {
-        printf("the number is positive\n");
+        printf("the given number %d is positive\n",num);
     }
 
     return 0;

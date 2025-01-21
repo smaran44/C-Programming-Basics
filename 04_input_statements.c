@@ -12,7 +12,7 @@ int main() {
    //& is used to store the value of a in the memory location of a
 
     float b;
-    printf("Enter the value of b\n");  
+    printf("Enter the value of b : ");  
     scanf("%f", &b);
     printf("The value of b is %f\n", b);
 

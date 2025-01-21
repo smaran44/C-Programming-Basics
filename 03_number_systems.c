@@ -28,13 +28,42 @@
     Step 2: 5 ÷ 2 = 2 remainder 1
     Step 3: 2 ÷ 2 = 1 remainder 0
     Step 4: 1 ÷ 2 = 0 remainder 1
-*/
+/*
 
    // format specifier for decimal(integer) is %d
 
-   // there is no in built format specifier for binary
+   // there is no built in format specifier for binary
 
 
+/*
+   3.Octal(Base 8)
+     A number system that uses 8 digits 0,1,2,3,4,5,6,7.
+
+    Octal: 0, 1, 7, 10 (8 in decimal), 77 (63 in decimal), etc.
+   
+    octal to decimal conversion
+
+    Octal:      1       2       3
+    Positions:  2       1       0
+    (1 × 8²) + (2 × 8¹) + (3 × 8⁰)
+    = (1 × 64) + (2 × 8) + (3 × 1)
+    = 64 + 16 + 3
+    = 83
+
+    decimal to octal conversion
+    
+    1.83÷8 =10 remainder 3
+
+    2.10÷8 =1 remainder 2
+
+    3.1÷8 remainder 1
+
+Write the remainders in reverse order: 123.
+
+*/
+
+
+  
 
     
     

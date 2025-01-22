@@ -11,6 +11,13 @@ int main() {
     // if statement
     // if statement is used to execute a block of code only if the condition is true
 
+    //syntax:
+    /* if (condition) {
+    // Code to execute if condition is true
+       } */
+
+
+
     int a,b;
     printf("Enter the value of a : ");
     scanf("%d",&a);

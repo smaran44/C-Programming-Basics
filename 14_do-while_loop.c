@@ -8,6 +8,11 @@ do {
 } while (condition);
 */
 
+//The do-while loop is similar to a while loop but guarantees that the loop body will execute at least once, as the condition is checked after executing the loop body.
+//Use Case:
+//When you need to execute the loop body at least once, regardless of the condition.
+//Often used in menu-driven programs or input validation scenarios.
+
 #include <stdio.h>
 int main() {
 

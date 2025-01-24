@@ -13,6 +13,11 @@ while (condition) {
 }
 */
 
+//The while loop is used when you don't know beforehand how many iterations you'll need, but the condition to continue the loop is clear. It checks the condition before executing the loop body.
+//Use Case:
+//When the number of iterations depends on a condition evaluated at runtime.
+//When you want to keep looping as long as a certain condition is true.
+
 #include <stdio.h>
 int main() {
     int chocolates = 5;

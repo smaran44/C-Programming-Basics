@@ -7,6 +7,11 @@ for (initialization; condition; update) {
 }
 */
 
+// For Loop:
+//The for loop is best when you know in advance how many times the loop needs to execute (i.e., when the iteration count is predetermined).
+//Use Case:
+//When you need to iterate over a sequence or range (e.g., counting, processing arrays, etc.).
+
 #include <stdio.h>
 int main() {
     // print numbers from 1 to 10

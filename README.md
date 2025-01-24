@@ -1,12 +1,18 @@
 C Programming Basics
 Welcome to the C Programming Basics repository! This project is designed to help you learn and practice the core concepts of C programming. It contains a variety of examples and exercises that cover the basics of the language, making it suitable for beginners.
 
-New Repository Alert!
-I have created a new repository: C-Programming-Detailed.
-In this new repository, C programming is explored in a detailed and advanced way, starting from the basics.
-This project is designed to help you learn and practice the core concepts of C programming. It contains a variety of examples and exercises that cover including the basics of the language, making it suitable for beginners also.
+🌟 New Repository Alert! 🌟
+I have created a new repository: C-Programming-Projects.
 
-Check it out here: https://github.com/smaran44/C-Programming-Detailed
+In this repository, I focus on showcasing real-world applications of C programming through practical projects. From beginner-friendly projects to advanced challenges, this repository is designed to help you apply your C programming knowledge in meaningful ways.
+
+What’s Inside?
+Real-world project ideas
+Step-by-step implementations
+Beginner, intermediate, and advanced level projects
+Examples to strengthen your coding skills
+
+Check it out here: https://github.com/smaran44/C-Programming-Projects
 
 
 If you're looking for quick reference material or a condensed version of concepts, you can continue using this repository as short notes or a one-shot guide for C programming.

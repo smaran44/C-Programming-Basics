@@ -6,7 +6,7 @@ I have created a new repository: C-Programming-Detailed.
 In this new repository, C programming is explored in a detailed and advanced way, starting from the basics.
 This project is designed to help you learn and practice the core concepts of C programming. It contains a variety of examples and exercises that cover including the basics of the language, making it suitable for beginners also.
 
-Link :-https://github.com/smaran44/C-Programming-Detailed
+Check it out here: https://github.com/smaran44/C-Programming-Detailed
 
 
 If you're looking for quick reference material or a condensed version of concepts, you can continue using this repository as short notes or a one-shot guide for C programming.

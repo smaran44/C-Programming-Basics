@@ -10,7 +10,7 @@ User-Defined Functions allow programmers to write custom functions to make their
 
 int main() {
     char str[] = "123456789";
-    printf("Length of the string: %s\n", (str)); 
+    printf("The string is: %s\n", (str)); 
     // strlen() is a predefined function that tells length of the string
     // strlen() is defined in string.h header file
     printf("Length of the string: %d\n", strlen(str));

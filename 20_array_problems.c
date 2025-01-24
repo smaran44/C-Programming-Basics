@@ -26,6 +26,9 @@ int main() {
 
 //Q:- Find the maximum element of the array
     int max = arr[0];
+
+    printf("at first max is %d\n", max);
+    
     for (int i = 1; i < 5; i++) {
         if (arr[i] > max) {
             max = arr[i];

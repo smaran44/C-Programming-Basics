@@ -34,5 +34,22 @@ int main() {
         printf("the given number %d is not positive\n",num);
     }
 
+
+ //Q:- find positive and even numbers
+ //&& is logical AND operator
+    if (num > 0 && num % 2 == 0) {
+        printf("The number is positive and even.\n");
+    } else {
+        printf("The number is not both positive and even.\n");
+    }
+
+//Q:- find negative and odd numbers
+//|| is logical OR operator
+  
+    if (num < 0 || num % 2 != 0) {
+        printf("The number is either negative or odd.\n");
+    } else {
+        printf("The number is neither negative nor odd.\n");
+    }
     return 0;
 }

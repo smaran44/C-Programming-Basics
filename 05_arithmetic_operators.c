@@ -17,7 +17,7 @@ int main() {
     printf("The value of a / b is %d\n", a / b);
     printf("The value of a %% b is %d\n", a % b);
     // a % b is the remainder when a is divided by b
-
+    //% operator is called the modulus operator. It calculates the remainder when one number is divided by another.
 
    //other method
 

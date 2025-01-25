@@ -5,7 +5,7 @@ int *ptr = &age;
 int _age = *ptr;
 printf("%d\n", _age);
 //address
-printf("%p\n", &age);
+printf("%p\n", &age);//%p is used to print address
 printf("%p\n", ptr);
 printf("%p\n", &ptr);
 //data

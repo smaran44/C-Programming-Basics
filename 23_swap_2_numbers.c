@@ -13,12 +13,12 @@ printf("x = %d & y = %d\n", x, y);
 return 0;
 }
 void swap(int a, int b) {
-int t = a;
+int temp = a;
 a = b;
 b = a;
 }
 void _swap(int* a, int* b) {
-int t = *a;
+int temp = *a;//temperary variable is used because we are going to swap the values
 *a = *b;
 *b = *a;
 }

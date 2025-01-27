@@ -44,5 +44,19 @@ int main() {
     printf("%d\n", arr[3]);
     printf("%d\n", arr[4]);
 
+// we can also declare and initialize a multi-dimensional array in C.
+    int matrix_array[2][3] = {
+        {1, 2, 3},
+        {4, 5, 6}
+    };
+    // multi dimensional array can be accessed in a matrix form
+    printf("%d\n", matrix_array[0][0]);
+    printf("%d\n", matrix_array[0][1]);
+    printf("%d\n", matrix_array[0][2]);
+    printf("%d\n", matrix_array[1][0]);
+    printf("%d\n", matrix_array[1][1]);
+    printf("%d\n", matrix_array[1][2]);
+   
+    
     return 0;
 }

@@ -8,14 +8,29 @@ void printNumbers(int *arr, int n);
 void _printNumbers(int arr[], int n);
 
 int main() {
-    // Declaring and initializing an integer array `arr` with 6 elements
-    int arr[] = {1, 2, 3, 4, 5, 6};
+    int n;  // Variable to store the size of the array
 
-    // Function call to `printNumbers` with `arr` and size `6`
-    printNumbers(arr, 6);  // Passing the array as a pointer (by reference)
+    // Prompt user for the size of the array
+    printf("Enter the number of elements in the array: ");
+    scanf("%d", &n);
 
-    // Function call to `_printNumbers` with the same array and size `6`
-    _printNumbers(arr, 6);  // Passing the array (interpreted as a pointer)
+    // Declare an integer array with the size provided by the user
+    int arr[n];
+
+    // Input loop to populate the array
+    printf("Enter %d elements of the array:\n", n);
+    for (int i = 0; i < n; i++) {
+        printf("Element %d: ", i);
+        scanf("%d", &arr[i]);  // Taking input for each element of the array
+    }
+
+    // Function call to `printNumbers` with the user-provided array and its size
+    printf("\nOutput using printNumbers:\n");
+    printNumbers(arr, n);  // Passing the array as a pointer (by reference)
+
+    // Function call to `_printNumbers` with the same array and size
+    printf("\nOutput using _printNumbers:\n");
+    _printNumbers(arr, n);  // Passing the array (interpreted as a pointer)
 
     return 0;  // Indicating that the program executed successfully
 }
@@ -39,3 +54,4 @@ void _printNumbers(int arr[], int n) {
         printf("%d : %d\n", i, arr[i]);
     }
 }
+

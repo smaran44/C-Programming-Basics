@@ -10,7 +10,8 @@ int main() {
   //in [] we can specify the size of the array like [10] or [20] etc.
    // we cannot leave it empty like [] or [0]
    printf("Enter name : ");
-   scanf("%s",name);
+   scanf("%s",name);//it cannot take space separated strings
+   // if we enter a string with space like "Hello World" then it will only take "Hello" and leave "World"
 
    // we use %c to print a single character
     printf("First character of the name is : %c\n",name[0]);

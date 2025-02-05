@@ -14,6 +14,11 @@ Examples to strengthen your coding skills
 
 Check it out here: https://github.com/smaran44/C-Programming-Projects
 
+🌟 Explore My Advanced C Programming Repository 🌟
+For those looking to dive deeper into C programming, I've also created the C-Programming-Advanced repository. This project focuses on advanced topics and techniques, offering detailed explanations and hands-on examples. It’s perfect for developers aiming to elevate their C programming skills.
+
+Check it out here: https://github.com/smaran44/C-Programming-Advanced
+
 
 If you're looking for quick reference material or a condensed version of concepts, you can continue using this repository as short notes or a one-shot guide for C programming.
 

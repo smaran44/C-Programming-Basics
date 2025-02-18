@@ -10,8 +10,6 @@ Welcome to **C Programming Basics**! This repository is designed for beginners t
 - **Functions**
 - **Arrays & Strings**
 - **Pointers**
-- **Structures**
-- **File Handling (Basic I/O)**
 
 ## 📂 Repository Structure
 ```
@@ -22,8 +20,6 @@ C-Programming-Basics/
 │-- functions/
 │-- arrays_strings/
 │-- pointers/
-│-- structures/
-│-- file_handling/
 │-- README.md
 ```
 Each folder contains C programs with explanations and comments to help you understand the concepts better.
